@@ -18,7 +18,7 @@ Logo após a configuração do CRUD basta importar o arquivo usando require():
 
 //Importando conexão com o banco
 
-include('bancoDados.php');
+include('conexaoBancoDados.php');
 
 
 Em seguida receba os dados em formato de array chamando a função desejada e passando como parâmetro a consulta SQL:
