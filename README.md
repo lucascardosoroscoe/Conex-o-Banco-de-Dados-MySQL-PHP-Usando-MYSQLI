@@ -5,8 +5,11 @@ Para configurar o Crud basta trocar os dados de acesso a o banco:
 
 //Dados de Acesso ao Banco
 $servidorBanco = 'BANCO DE DADOS';
+
 $senhaBanco ='SENHA';
+
 $usuarioBanco ='USUÁRIO';
+
 $bdados ='BANCO DE DADOS';
 
 
